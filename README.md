@@ -1,2 +1,3 @@
 # Twitter-Comment-Bot
-Twitter Bot that selects comments from a random list and posts them.
+This bot receives a twitter account, a Tweet-ID and a text-message; It goes through the followers and saves them into a list.
+Then it will start tagging the users on the given Tweet with the specified text-message.
